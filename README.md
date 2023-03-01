@@ -13,7 +13,7 @@ Actualmente estoy trabajando en varios proyectos que aún no están listos para 
 
 ## 📞 **Contacto**
 
-Si deseas contactarme, puedes hacerlo a través de mi correo electrónico [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/analucíarodríguezlotero/) o mediante mi perfil en [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/analucíarodríguezlotero/) . Estaré encantada de escuchar tus ideas y proyectos. 🤝<br><br>
+Si deseas contactarme, puedes hacerlo a través de mi correo electrónico annie.rodriguez.l1126@gmail.com [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/?ogbl#inbox?compose=new) o mediante mi perfil en [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/analucíarodríguezlotero/) . Estaré encantada de escuchar tus ideas y proyectos. 🤝<br><br>
 
 ## 💻 Habilidades tecnológicas:
 
