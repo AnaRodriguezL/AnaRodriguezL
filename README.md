@@ -2,7 +2,7 @@
 Mi nombre es Ana Lucía Rodríguez, soy programadora junior de Pereira, Risaralda, Colombia.
 Me apasiona la programación y en especial el frontend, aunque también tengo interés en aprender más sobre el desarrollo full stack.<br><br>
 
-## :tw-2728: **Sobre mí**
+## ✨ **Sobre mí**
 - 💼 Actualmente trabajo en la empresa Indesap S.A.S. como programador junior.
 - 🌱 Me gusta estar siempre aprendiendo cosas nuevas y mejorando mis habilidades como programadora.
 - 🎓 Estudié en la Universidad Católica de Pereira y obtuve mi título en Tecnología en Desarrollo del Software. Sin embargo, actualmente me encuentro completando mis estudios como ingeniera.<br><br>
