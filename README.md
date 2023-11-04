@@ -1,5 +1,5 @@
 # ¡Hola! 👋
-Mi nombre es Ana Lucía Rodríguez, soy programadora junior de Pereira, Risaralda, Colombia.
+Mi nombre es Ana Lucía Rodríguez Lotero, soy programadora junior de Pereira, Risaralda, Colombia.
 Me apasiona la programación y en especial el frontend, aunque también tengo interés en aprender más sobre el desarrollo full stack.<br><br>
 
 ## ✨ **Sobre mí**
