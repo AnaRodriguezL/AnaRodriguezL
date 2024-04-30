@@ -5,7 +5,7 @@
 
 <!-- Redes de contacto -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/DavidsDvm">
+    <a href="https://www.instagram.com/annie_rodriguez_26/?hl=es-la">
       <img src="https://img.shields.io/badge/instagram-E3B0C2?&style=for-the-badge&logo=instagram&logoColor=black">
     </a>
     <a href="https://www.linkedin.com/in/analuc%C3%ADarodr%C3%ADguezlotero/">
